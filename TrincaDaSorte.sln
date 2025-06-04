@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrincaDaSorte", "TrincaDaSorte.csproj", "{1FA87550-BEC4-B6BD-2CB9-ACCDCAC5C0EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FA87550-BEC4-B6BD-2CB9-ACCDCAC5C0EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA87550-BEC4-B6BD-2CB9-ACCDCAC5C0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA87550-BEC4-B6BD-2CB9-ACCDCAC5C0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA87550-BEC4-B6BD-2CB9-ACCDCAC5C0EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38F78650-20F3-4B14-907D-8CEF6104D98D}
+	EndGlobalSection
+EndGlobal
