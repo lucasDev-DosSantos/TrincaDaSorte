@@ -1,0 +1,44 @@
+# Build
+bin/
+obj/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Arquivos NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Publicação
+.publish/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code history
+.history/
+
+# Ignorar subpastas de build
+**/bin/
+**/obj/
