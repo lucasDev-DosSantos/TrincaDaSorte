@@ -1,12 +1,18 @@
 # 🎲 Trinca da Sorte – Um Jogo de Dados em C#
 
-![.NET](https://img.shields.io/badge/.NET-6.0-blue)
+![.NET](https://img.shields.io/badge/.NET-8.0-blue)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
 Neste projeto, ainda em desenvolvimento, estou colocando em prática os conhecimentos básicos da linguagem **C#**.
 
 ---
 
+## 📌 Observações
+O projeto foi feito apenas com struct e procedural, sem orientação a objetos, como parte dos estudos iniciais em C#.
+
+O jogo roda no console e utiliza cores, centralização e bordas para uma interface mais amigável
+
+---
 ## 🎮 Sobre o Jogo
 
 **Trinca da Sorte** é um jogo simples e divertido onde o jogador desafia a máquina em uma corrida até **100 pontos**, utilizando lançamentos de dados. Tudo acontece no console, de forma animada e interativa.
@@ -57,4 +63,55 @@ Agora é a vez da máquina...
 
 Soma: 18 + Bônus: 4 → Total da rodada: 22 pontos
 Pontuação acumulada da máquina: 34 pontos
+```
 
+## 🛠 Requisitos
+
+- [.NET SDK 8.0 ou superior](https://dotnet.microsoft.com/en-us/download)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- Terminal (Git Bash, CMD, PowerShell ou Terminal do VS Code)
+
+---
+
+## 📥 Como baixar este repositório
+
+1. Abra o terminal e vá até a pasta onde deseja salvar o projeto.
+2. Execute:
+
+```bash
+git clone https://github.com/seu-usuario/TrincaDaSorte.git
+```
+3. Entre na pasta do projeto:
+```
+cd TrincaDaSorte
+
+```
+---
+## 💻 Como instalar o VS Code
+
+Acesse: https://code.visualstudio.com/
+
+Clique em Download e instale normalmente.
+---
+## ⚙️ Como instalar o .NET SDK
+
+Acesse: https://dotnet.microsoft.com/download
+
+Baixe o instalador do .NET SDK (não o Runtime) compatível com seu sistema operacional.
+
+Após a instalação, confirme no terminal:
+```
+dotnet --version
+```
+Se aparecer a versão (ex: 8.0.100), está tudo certo.
+
+## ▶️ Como rodar o projeto
+
+No terminal, dentro da pasta do projeto, execute:
+```
+dotnet run
+```
+Isso irá compilar e iniciar o jogo diretamente no console.
+
+## ✍️ Autor
+Lucas Bento
